@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "937878892409",
+    "firebase_url": "https://order-foods-ade1b.firebaseio.com",
+    "project_id": "order-foods-ade1b",
+    "storage_bucket": "order-foods-ade1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937878892409:android:4f3fe4620fd367c0",
+        "android_client_info": {
+          "package_name": "com.example.mozeeb.orderfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937878892409-fhtbsu4i24oc83gb0rd6kegov095gcdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mozeeb.orderfoods",
+            "certificate_hash": "5334a0990b79050bf42ffbb0e9e6a467f418235c"
+          }
+        },
+        {
+          "client_id": "937878892409-5fh1s83ogam90epfiop0rtbd4se032j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDfqXB7w3Nj_GEeSyi1cR-S2jpMuqnY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937878892409-5fh1s83ogam90epfiop0rtbd4se032j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937878892409:android:49c980e98ed0f10dec49a8",
+        "android_client_info": {
+          "package_name": "id.cikup.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937878892409-5fh1s83ogam90epfiop0rtbd4se032j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDfqXB7w3Nj_GEeSyi1cR-S2jpMuqnY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937878892409-5fh1s83ogam90epfiop0rtbd4se032j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
